@@ -6,4 +6,4 @@ This is a python script which convert any kind of information piece into a QR co
 ## Clone the Repo
 
 Use this code and clone the **QR-Generator** repository
- git clone https://github.com/PasinduBandaraa/QR-Generator.git
+> git clone https://github.com/PasinduBandaraa/QR-Generator.git
